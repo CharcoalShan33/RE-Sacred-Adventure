@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Boss
+  - NPC
+  - EnemyAttack
+  - Attack
+  - Main
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Objects
+  - Background
+  - Projectiles/Attacks
+  - Liquid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGround
+    uniqueID: 1594650935
+    locked: 0
+  - name: MGround
+    uniqueID: 458936127
+    locked: 0
+  - name: Liquid
+    uniqueID: 3753382141
+    locked: 0
+  - name: FGround
+    uniqueID: 3140396971
+    locked: 0
+  - name: Enemy
+    uniqueID: 3363389769
+    locked: 0
+  - name: Player
+    uniqueID: 1308829019
+    locked: 0
+  - name: Level UI
+    uniqueID: 1772747605
+    locked: 0
+  - name: BattleBackground
+    uniqueID: 3692961103
+    locked: 0
+  - name: Battle Effects Enemy
+    uniqueID: 2668296727
+    locked: 0
+  - name: Attacks Enemy
+    uniqueID: 2994043809
+    locked: 0
+  - name: Battle Effects Player
+    uniqueID: 3972920889
+    locked: 0
+  - name: Attacks Player
+    uniqueID: 3915791929
+    locked: 0
+  - name: Battle UI
+    uniqueID: 4042448617
+    locked: 0
