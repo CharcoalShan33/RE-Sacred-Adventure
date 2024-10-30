@@ -11,6 +11,8 @@ TagManager:
   - Attack
   - Main
   - Door
+  - Breakable
+  - Collectable
   layers:
   - Default
   - TransparentFX
@@ -24,8 +26,8 @@ TagManager:
   - Background
   - Projectiles/Attacks
   - Liquid
-  - 
-  - 
+  - Ground
+  - Walls
   - 
   - 
   - 
@@ -51,11 +53,17 @@ TagManager:
   - name: BGround
     uniqueID: 1594650935
     locked: 0
+  - name: Liquid
+    uniqueID: 3753382141
+    locked: 0
   - name: MGround
     uniqueID: 458936127
     locked: 0
-  - name: Liquid
-    uniqueID: 3753382141
+  - name: MGround2
+    uniqueID: 3303746911
+    locked: 0
+  - name: Top
+    uniqueID: 2549945097
     locked: 0
   - name: FGround
     uniqueID: 3140396971
